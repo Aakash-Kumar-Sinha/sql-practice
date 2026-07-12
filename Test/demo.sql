@@ -1,4 +1,4 @@
--- This is a demo file for Testing Purpose
+-- Demo SQL file for testing purposes.
 
 CREATE DATABASE college;
 
