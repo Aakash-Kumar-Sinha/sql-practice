@@ -1,3 +1,5 @@
+-- This is a demo file for Testing Purpose
+
 CREATE DATABASE college;
 
 USE college;
