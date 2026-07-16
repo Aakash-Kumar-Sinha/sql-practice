@@ -30,30 +30,7 @@ As I continue learning, **new topics and practice files will be added automatica
 
 ## 📚 What You'll Find Here
 
-This repository may include practice on topics such as:
-
-* SQL Basics
-* Database & Table Management
-* Data Manipulation (DML)
-* Constraints
-* Joins
-* Aggregate Functions
-* Grouping & Filtering
-* Subqueries
-* Views
-* Set Operators
-* Functions
-* Stored Procedures
-* Triggers
-* Indexes
-* Transactions
-* Common Table Expressions (CTEs)
-* Window Functions
-* Query Optimization
-* Database Projects
-* And many more as I continue learning.
-
-Rather than maintaining a checklist here, the repository itself reflects my latest progress.
+This repository is a collection of SQL practice files, examples, and exercises created during my learning journey. The content is organized into separate directories, making it easy to explore different concepts and follow my progress.
 
 ---
 
